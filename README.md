@@ -2,11 +2,10 @@
 This program prints basic triangle patterns using C Language.
 
 ## Right-Angled Triangle
-*
-**
-***
-****
-*****
+|
+|||
+||||
+|||||
 
 ## Equilateral Triangle
    *
